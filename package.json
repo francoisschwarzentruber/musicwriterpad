@@ -20,7 +20,7 @@
     "@types/vexflow": "^1.2.36",
     "n": "^6.5.1",
     "node-pre-gyp": "^0.15.0",
-    "npm": "^1.4.29",
+    "npm": "^6.13.4",
     "python-shell": "^2.0.1",
     "robot-js": "github:Robot/robot-js#dev",
     "robotjs": "^0.6.0",
